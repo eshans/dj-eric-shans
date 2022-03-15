@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Poppins&family=Raleway:wght@300&display=swap');
+
+:root {
+  --white: #fff;
+  --active-color: #0944e4;
+}
+
+.audio-player {
+  padding: 5px 5px;
+  box-shadow: 0 28px 28px rgba(0, 0, 0, 0.2);
+  color: var(--white);
+  font-family: raleway;
+  position: fixed;
+  bottom:0;
+  min-width: 350px;
+  left:20px; 
+}
+
+.player.header {
+  display: flex;
+}
+
+.artwork {
+  border-radius: 120px;
+  display: block;
+  margin: auto;
+  height: 20px;
+  width: 20px;
+  float: right;
+  position: relative;
+  right: 10px;
+}
+
+.track-info {
+  text-align: center;
+	z-index: 1;
+  position: relative;
+}
+
+h3.title {
+  font-size: 14px;
+}
+
+h4.artist {
+  font-size: 16px;
+  margin-top: 0;
+  font-weight:bold;
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+input[type="range"] {
+  height: 5px;
+  -webkit-appearance: none;
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  background: #3b7677;
+  transition: background 0.2s ease;
+  cursor: pointer;
+}
+
+.audio-controls {
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  margin: 0 auto -8px;
+}
+
+.audio-controls .prev svg,
+.audio-controls .next svg {
+  width: 15px;
+  height: 25px;
+}
+
+.audio-controls .play svg,
+.audio-controls .pause svg {
+  height: 15px;
+  width: 15px;
+}
+
+.audio-controls path {
+  fill: var(--white);
+}
+
+.color-backdrop {
+  background: linear-gradient(45deg, var(--active-color) 20%, transparent 100%) no-repeat;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.color-backdrop.playing {
+  animation: colorChange 20s alternate infinite;
+}
+
+@keyframes colorChange {
+  from {
+    filter: hue-rotate(0deg);
+  }
+  to {
+    filter: hue-rotate(360deg);
+  }
+}
+

@@ -1,0 +1,263 @@
+[
+  {
+    "id": 0,
+    "imageURL": "/images/ardour.jpg",
+    "title": "We Choose",
+    "description": "Released 2020 w/ a remix by Death On The Balcony",
+    "label": "Canopy Sounds",
+    "buy": "https://www.beatport.com/release/ardour/3096956",
+    "stream": "https://open.spotify.com/album/5vNYmx4uNY5fIPrOCR0cUa?si=lwCXwLGtSn6g6ZNToPZKRQ"
+  },
+  {
+    "id": 1,
+    "imageURL": "/images/we-choose.jpg",
+    "title": "We Choose",
+    "description": "Released 2016",
+    "label": "Colour & Pitch",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 2,
+    "imageURL": "/images/gone-away.jpg",
+    "title": "Gone Away",
+    "description": "Released 2016",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/gone-away-ep/1685437",
+    "stream": "https://open.spotify.com/album/0MVhcxCBnBunPhGQDQ3JZZ?si=Haglvqe_RNKqJ5arnM2WGg"
+  },
+  {
+    "id": 3,
+    "imageURL": "/images/cosmic.jpg",
+    "title": "Cosmic Explorations",
+    "description": "Released 2017",
+    "label": "3Bridge Elements",
+    "buy": "https://ericshans.bandcamp.com/album/cosmic-explorations",
+    "stream": "https://open.spotify.com/album/3jN58PZuUQp8lNOMxLwjpU?si=YjkUuSQZQ_-zY_KfAduwYQ"
+  },
+  {
+    "id": 4,
+    "imageURL": "/images/yours-mine.jpg",
+    "title": "Yours and Mine",
+    "description": "Released 2015",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/yours-mine-ep/1573930",
+    "stream": "https://open.spotify.com/album/18OEPdGk0bsUjWReBNdt2x?si=t-Uj0zoTTCqj1DT0lLjMGw"
+  },
+  {
+    "id": 5,
+    "imageURL": "/images/no-endings.jpg",
+    "title": "No Endings EP",
+    "description": "The first EP released on the label",
+    "label": "3Bridge Elements",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/0lW2JVjBQJtUtwSm4WP6RZ?si=Wfcf5SMfSziRO9sWKadPuw"
+  },
+  {
+    "id": 6,
+    "imageURL": "/images/stranger.jpg",
+    "title": "A Stranger to Ourselves",
+    "description": "Released 2018",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 7,
+    "imageURL": "/images/days-ahead.jpg",
+    "title": "For The Days Ahead",
+    "description": "Released 2018",
+    "label": "3Bridge Elements",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 8,
+    "imageURL": "/images/hb-steady.jpg",
+    "title": "The Heartbeats Steady",
+    "description": "Released 2018",
+    "label": "3Bridge Elements",
+    "buy": "https://ericshans.bandcamp.com/album/the-heart-beats-steady",
+    "stream": "https://open.spotify.com/album/7ccEzGcP4B7SzI0qIAKOJj?si=ihxAtmkATfG2jLMQ8xep0Q"
+  },
+  {
+    "id": 8,
+    "imageURL": "/images/heaven-wave.jpg",
+    "title": "Heaven is a Wave",
+    "description": "Released 2019",
+    "label": "Candyflip",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 9,
+    "imageURL": "/images/leather-sweater.jpeg",
+    "title": "Leather Sweater",
+    "description": "Released 2019",
+    "label": "Viva Recordings",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 10,
+    "imageURL": "/images/holdontome.jpg",
+    "title": "Hold On To Me",
+    "description": "Released 2019",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 11,
+    "imageURL": "/images/happy-warrior.jpg",
+    "title": "Happy Warrior",
+    "description": "Released 2019",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 12,
+    "imageURL": "/images/holdontome.jpg",
+    "title": "Hold On To Me",
+    "description": "Released 2019",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 13,
+    "imageURL": "/images/feel_alive.jpg",
+    "title": "Start To Feel",
+    "description": "Released 2019",
+    "label": "Colour & Pitch",
+    "buy": "https://www.beatport.com/release/start-to-feel/2198505",
+    "stream": "https://open.spotify.com/album/3Lo98gJlDU3Y335zdGqBwd?si=RMv1eVb7SlKojTdUT5rYoA"
+  },
+  {
+    "id": 13,
+    "imageURL": "/images/liquidtime.jpg",
+    "title": "Liquid Time",
+    "description": "Released 2020",
+    "label": "3Bridge Elements",
+    "buy": "https://ericshans.bandcamp.com/album/liquid-time-2",
+    "stream": "https://open.spotify.com/album/6zFUbK3zt3XfWIDobeIEBh?si=fbvJMzodTAeTgkuWCDfD0w"
+  },
+  {
+    "id": 14,
+    "imageURL": "/images/sex-dinner.jpg",
+    "title": "Sexting With Strangers",
+    "description": "Released 2020",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/sexting-with-strangers/3001076",
+    "stream": "https://open.spotify.com/album/1a1UuTBdGmH24938VL2Jzg?si=zVZeXpwzSlWvGKxMMvE95A"
+  },
+  {
+    "id": 15,
+    "imageURL": "/images/followsigns.jpg",
+    "title": "Follow The Signs",
+    "description": "Released 2021",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/follow-the-signs/3479484",
+    "stream": "https://open.spotify.com/album/2Vs3uzxW5NopIvSC2ZKRSB?si=Prwi_jfgSsCQnkpTS2hJgw"
+  },
+  {
+    "id": 16,
+    "imageURL": "/images/save-us.jpg",
+    "title": "Who Will Save Us",
+    "description": "Released 2017",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/who-will-save-us-ep/2091046",
+    "stream": "https://open.spotify.com/album/1BRrCv0iPMtpcNEizLvnz9?si=Enn239axRtivntLkVEZB7g"
+  },
+  {
+    "id": 17,
+    "imageURL": "/images/inmemoriam.jpeg",
+    "title": "In Memoriam",
+    "description": "Released 2021",
+    "label": "Colour & Pitch",
+    "buy": "https://www.beatport.com/release/in-memoriam/3237467",
+    "stream": "https://open.spotify.com/album/6nemLS1dMzwuW08esR4d23?si=xqjMECuYQ4u7t53YiamWvQ"
+  },
+  {
+    "id": 18,
+    "imageURL": "/images/thoughts.jpeg",
+    "title": "Thoughts Like Waves",
+    "description": "Released 2015",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/thoughts-like-waves-ep/1525258",
+    "stream": "https://open.spotify.com/album/7K9Oegz36X9DZmSST0ST1W?si=0G8FE-y0QcayWHAmjaMwRQ"
+  },
+  {
+    "id": 19,
+    "imageURL": "/images/world-fell.jpg",
+    "title": "World Fell Down",
+    "description": "Released 2015",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/world-fell-down-ep/1446519",
+    "stream": "https://open.spotify.com/album/3nqOc6H4lWZ0sMsMV7xIdN?si=wf8qg6Y7SCmRCk7DufS8dA"
+  },
+  {
+    "id": 20,
+    "imageURL": "/images/allofmylove.jpeg",
+    "title": "All Of My Love",
+    "description": "Released 2020",
+    "label": "Colour & Pitch",
+    "buy": "https://www.beatport.com/release/all-of-my-love/2873362",
+    "stream": "https://open.spotify.com/album/3rjGcKBPyQQGlXhszXQ6rn?si=VJ46SPdeSVe7TppyvuBtdw"
+  },
+  {
+    "id": 21,
+    "imageURL": "/images/anotherworld.jpeg",
+    "title": "Another World w/ Slav Ka",
+    "description": "Released 2015",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/another-world-ep/2150753",
+    "stream": "https://open.spotify.com/album/2uV1HmCROjzBU4cEE5eyDd?si=Qs1V9aKfTx-zq0UJiUBeaQ"
+  },
+  {
+    "id": 19,
+    "imageURL": "/images/sight.jpeg",
+    "title": "Out Of Sight",
+    "description": "Released 2018",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/out-of-sight/2695287",
+    "stream": "https://open.spotify.com/album/1peySYceh0PpmsYVuep5o5?si=Qqcm2NOGS-y-b3neM5s6Lg"
+  },
+  {
+    "id": 19,
+    "imageURL": "/images/space-age.jpg",
+    "title": "Space Age Love Song (A Flock Of Seagulls cover)",
+    "description": "Released 2014",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/space-age-love-song/1316120",
+    "stream": "https://open.spotify.com/album/3FIq1vPqZnVk11ZtfgJqBS?si=sxa7UmWgSK-S-W7zWPbd3w"
+  },
+  {
+    "id": 20,
+    "imageURL": "/images/skylights.jpeg",
+    "title": "Skylights w/Jay Hill",
+    "description": "Released 2014",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/skylights/1302375",
+    "stream": "https://open.spotify.com/track/496vrwi1mE9gk4vRUQDg3Y?si=632f811afcc640a7"
+  },
+  {
+    "id": 20,
+    "imageURL": "/images/thatcat.jpg",
+    "title": "That Cat w/ Deep Woods",
+    "description": "Released 2016",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/that-cat/1800382",
+    "stream": "https://open.spotify.com/album/0oxNTRj34TfvUNeVZeFxaO?si=tlKMHgRoSVOpbzY-ndtPUw"
+  },
+  {
+    "id": 21,
+    "imageURL": "/images/connectionpaths.jpeg",
+    "title": "Connection Paths w/ Slav Ka",
+    "description": "Released 2019",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/connection-paths/2501515",
+    "stream": "https://open.spotify.com/album/1v6SaZcn22Rrbp43fZw3LZ?si=-SF7L-z9Ty665AxfMBji5w"
+  }
+]

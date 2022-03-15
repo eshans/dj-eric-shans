@@ -1,24 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import { Route, Routes } from 'react-router-dom'
+import NavbarVersion from './components/NavbarVersion'
+import Header from './components/Header'
+import Footer from './components/Footer'
+import InstagramFeed from './components/InstagramFeed'
+import About from './pages/About'
+import Releases from './pages/Releases'
+import Contact from './pages/Contact'
+import Media from './pages/Media'
+import NotFound from './pages/NotFound'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <NavbarVersion />
+      <Header />
+      <Routes>
+        <Route path='/' element={<About />} />
+        <Route path='/about' element={<About />} />
+        <Route path='/releases' element={<Releases />} />
+        <Route path='/contact' element={<Contact />} />
+        <Route path='/media' element={<Media />} />
+        <Route path='*' element={<NotFound />} />
+      </Routes>
+      <Footer />
+    </>
   );
 }
 
