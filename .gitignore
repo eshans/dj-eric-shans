@@ -12,7 +12,7 @@
 /build
 
 # misc
-to.md
+.to.md
 .DS_Store
 .env.local
 .env.development.local
