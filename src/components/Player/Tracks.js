@@ -28,7 +28,7 @@ const tracks = [
     title: "Follow The Signs",
     artist: "Eric Shans",
     audioSrc: followSigns,
-    label: "3Brige Records",
+    label: "3Bridge Records",
     image: followSignImg,
     color: "#00aeb0"
   },
