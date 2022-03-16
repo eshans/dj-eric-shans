@@ -15,7 +15,6 @@ function About() {
         </p>
         <p className="info"> If you are an artist and would like to send your demos for label consideration or production work, you canplease send to eric@3bidgerecords.com</p>
       </div>
-
     </div>
   )
 }

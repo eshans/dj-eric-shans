@@ -1,20 +1,25 @@
-import { useInstagramFeed } from 'use-instagram-feed'
+import InstagramEmbed from 'react-instagram-embed'
 
 function InstagramFeed() {
 
-  let photos = useInstagramFeed({
-    userId: "244946207",
-    thumbnailWidth: 640,
-    photoCount: 12,
-  })
+  const APP_ID = 639657380440168;
+
   return (
-    <div>
-      {photos &&
-        photos.map(({ id, caption, src, width, height, url }) => (
-          <a key={id} href={url}>
-            <img src={src} alt={caption} />
-          </a>
-        ))}
+    <div className="insta">
+      <InstagramEmbed
+        url='https://instagram.com/shanstasticeric'
+        clientAccessToken={APP_ID}
+        maxWidth={320}
+        hideCaption={false}
+        containerTagName='insta'
+        protocol=''
+        injectScript
+        onLoading={() => { }}
+        onSuccess={() => { }}
+        onAfterRender={() => { }}
+        onFailure={() => { }}
+      />
+
     </div>
   )
 

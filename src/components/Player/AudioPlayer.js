@@ -19,7 +19,6 @@ const AudioPlayer = ({ tracks }) => {
   // Destructure duration 
   const { duration } = audioRef.current;
 
-
   const currentPercentage = duration
     ? `${(trackProgress / duration) * 100}%`
     : "0%";
@@ -141,7 +140,6 @@ const AudioPlayer = ({ tracks }) => {
           alt={`track artwork for ${title} by ${artist}`}
         />
       </div>
-
     </div>
   );
 };

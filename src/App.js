@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom'
 import NavbarVersion from './components/NavbarVersion'
 import Header from './components/Header'
 import Footer from './components/Footer'
-import InstagramFeed from './components/InstagramFeed'
+
 import About from './pages/About'
 import Releases from './pages/Releases'
 import Contact from './pages/Contact'
@@ -14,6 +14,7 @@ function App() {
     <>
       <NavbarVersion />
       <Header />
+
       <Routes>
         <Route path='/' element={<About />} />
         <Route path='/about' element={<About />} />
