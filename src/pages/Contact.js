@@ -8,6 +8,7 @@ import {
 } from "react-icons/fa"
 import { IconContext } from "react-icons"
 
+
 //Mail to link function
 const Mailto = ({ email, subject, body, children }) => {
   return (
@@ -32,7 +33,6 @@ function Contact() {
         </IconContext.Provider>
         <div> <p> For the latest Beatport charts, you can go here.</p></div>
       </div>
-
     </div >
   )
 }

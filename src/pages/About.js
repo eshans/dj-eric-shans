@@ -13,7 +13,7 @@ function About() {
         <p className="info">
           For information on 3Bridge Elements, the ambient music label based in Brooklyn, NY, <a href="http://www.3bridgeelements.com" rel="noreferrer" target="_blank">www.3bridgelements.com</a>
         </p>
-        <p className="info"> If you are an artist and would like to send your demos for label consideration or production work, you canplease send to eric@3bidgerecords.com</p>
+        <p className="info"> If you are an artist and would like to send your demos for label consideration or production work, you can send to eric@3bidgerecords.com</p>
       </div>
     </div>
   )
