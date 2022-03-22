@@ -13,6 +13,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
+    "react-instagram-authless-feed": "github:jamesmoriarty/react-instagram-authless-feed",
     "react-instagram-embed": "^3.0.0",
     "react-player": "^2.9.0",
     "react-router-dom": "^6.2.1",
