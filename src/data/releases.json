@@ -2,7 +2,7 @@
   {
     "id": 0,
     "imageURL": "/images/ardour.jpg",
-    "title": "We Choose",
+    "title": "Ardour",
     "description": "Released 2020 w/ a remix by Death On The Balcony",
     "label": "Canopy Sounds",
     "buy": "https://www.beatport.com/release/ardour/3096956",
@@ -19,12 +19,11 @@
   },
   {
     "id": 2,
-    "imageURL": "/images/gone-away.jpg",
-    "title": "Gone Away",
-    "description": "Released 2016",
+    "imageURL": "/images/cloud.jpeg",
+    "title": "Cloud Bursts",
+    "description": "Released 2022",
     "label": "3Bridge Records",
-    "buy": "https://www.beatport.com/release/gone-away-ep/1685437",
-    "stream": "https://open.spotify.com/album/0MVhcxCBnBunPhGQDQ3JZZ?si=Haglvqe_RNKqJ5arnM2WGg"
+    "buy": "https://www.beatport.com/release/cloud-bursts/3687306"
   },
   {
     "id": 3,
@@ -259,5 +258,32 @@
     "label": "3Bridge Records",
     "buy": "https://www.beatport.com/release/connection-paths/2501515",
     "stream": "https://open.spotify.com/album/1v6SaZcn22Rrbp43fZw3LZ?si=-SF7L-z9Ty665AxfMBji5w"
+  },
+  {
+    "id": 23,
+    "imageURL": "/images/expanded.jpeg",
+    "title": "Expanded",
+    "description": "Released 2017",
+    "label": "The Seed",
+    "buy": "https://www.beatport.com/release/expanded/2135904",
+    "stream": "https://open.spotify.com/album/19fwXv8GfWUXhsQteSlZ2E?si=W8Oe4bkUSDq6aJFjJCT7aQ"
+  },
+  {
+    "id": 23,
+    "imageURL": "/images/hands.jpeg",
+    "title": "Our Hands",
+    "description": "Released 2014",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/our-hands/1392406",
+    "stream": "https://open.spotify.com/album/6Iv37E3au1RQPTT5MSYnmd?si=OMcuGNaOQ0qXtizT6aanQA"
+  },
+  {
+    "id": 24,
+    "imageURL": "/images/gone-away.jpg",
+    "title": "Gone Away",
+    "description": "Released 2016",
+    "label": "3Bridge Records",
+    "buy": "https://www.beatport.com/release/gone-away-ep/1685437",
+    "stream": "https://open.spotify.com/album/0MVhcxCBnBunPhGQDQ3JZZ?si=Haglvqe_RNKqJ5arnM2WGg"
   }
 ]
