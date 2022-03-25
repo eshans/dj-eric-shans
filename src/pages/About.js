@@ -12,7 +12,7 @@ function About() {
           For information on 3Bridge Records, the house music label based in Brooklyn, NY goto <a href="http://www.3bridgerecords.com" rel="noreferrer" target="_blank">www.3bridgerecords.com</a>
         </p>
         <p className="info">
-          For information on 3Bridge Elements, the ambient music label based in Brooklyn, NY, <a href="http://www.3bridgeelements.com" rel="noreferrer" target="_blank">www.3bridgelements.com</a>
+          For information on 3Bridge Elements, the ambient music label based in Brooklyn, NY, <a href="http://www.3bridgelements.com" rel="noreferrer" target="_blank">www.3bridgelements.com</a>
         </p>
         <p className="info"> If you are an artist and would like to send your demos for label consideration, or if you need production/remix work, you can send to eric@3bidgerecords.com</p>
       </div>
