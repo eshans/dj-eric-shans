@@ -1,0 +1,107 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter Tight", ui-sans-serif, system-ui, sans-serif;
+  --color-ink: #0b0b0c;
+  --color-raised: #151517;
+  --color-line: #26262a;
+  --color-muted: #8d8d93;
+  --color-paper: #ededeb;
+  --color-accent: #e5202e;
+}
+
+html {
+  background: var(--color-ink);
+  color: var(--color-paper);
+  color-scheme: dark;
+  scrollbar-gutter: stable;
+}
+
+body {
+  @apply font-sans antialiased;
+}
+
+::selection {
+  background: var(--color-accent);
+  color: white;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+}
+
+/* Route transition */
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+.page-enter-from {
+  opacity: 0;
+  transform: translateY(8px);
+}
+.page-leave-to {
+  opacity: 0;
+}
+
+/* v-reveal directive */
+.reveal {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 0.6s ease, transform 0.6s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.reveal.is-revealed {
+  opacity: 1;
+  transform: none;
+}
+
+/* Hairline seek bar; --progress is set inline */
+.seek {
+  appearance: none;
+  background: transparent;
+  cursor: pointer;
+  height: 14px;
+}
+.seek::-webkit-slider-runnable-track {
+  height: 2px;
+  background: linear-gradient(to right, var(--color-paper) var(--progress), var(--color-line) var(--progress));
+}
+.seek::-webkit-slider-thumb {
+  appearance: none;
+  width: 10px;
+  height: 10px;
+  margin-top: -4px;
+  border-radius: 9999px;
+  background: var(--color-paper);
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.seek:hover::-webkit-slider-thumb,
+.seek:focus-visible::-webkit-slider-thumb {
+  opacity: 1;
+}
+.seek::-moz-range-track {
+  height: 2px;
+  background: var(--color-line);
+}
+.seek::-moz-range-progress {
+  height: 2px;
+  background: var(--color-paper);
+}
+.seek::-moz-range-thumb {
+  width: 10px;
+  height: 10px;
+  border: 0;
+  border-radius: 9999px;
+  background: var(--color-paper);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    transition-delay: 0s !important;
+    animation-duration: 0.01ms !important;
+  }
+}
